@@ -1,0 +1,2 @@
+getter- get info from class
+setter -set info to class

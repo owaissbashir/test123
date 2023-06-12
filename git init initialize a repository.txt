@@ -1,0 +1,14 @@
+git init initialize a repository
+
+git status- 
+
+
+
+git add add files to staging area
+
+
+
+git add .
+
+git log
+git commit -m 'kk'
