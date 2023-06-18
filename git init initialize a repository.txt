@@ -12,3 +12,12 @@ git add .
 
 git log
 git commit -m 'kk'
+
+git clone ( download/get a copy of code)
+
+
+git branch
+git branch nameofbranch creates a branch
+
+
+git checkout go in that branch
